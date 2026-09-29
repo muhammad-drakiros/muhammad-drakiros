@@ -3,7 +3,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="35%"/><br>
 
-<h1>Hi, I'm Makkai Matyas 👋</h1>
+<h1>Hi, I'm Muhammad Nasr 👋</h1>
 <p><b>Electronics & Communications Engineer | Embedded Systems | AI & NLP | Networking & Cybersecurity</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muham2521552il/)
@@ -11,19 +11,11 @@
 ![Location](https://img.shields.io/badge/Location-Giza%2C%20Egypt-blue)
 
 <details>
-<summary><b> 🎧 Vibing to on YouTube : </b></summary>
+<summary><b> 🎧 Vibing to : </b></summary>
 <br>
 
 <a href="https://youtu.be/CDV0-ArlrXw" target="_blank">
-
-  <img src="YOUR_ANIMATED_HEADPHONES_GIF_URL" width="40" align="center" />
-
-  <img src="YOUR_ANIMATED_MUSIC_GIF_URL" width="35" align="center" />
-
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align="center" />
-
-<b> 50 Cent - P.I.M.P. (slowed+reverb)</b>
-
+  <img src="giphy.webp" width="60" alt="Vibing Headphones" />
 </a>
 
 </details>
@@ -74,10 +66,11 @@ class About extends Me {
     "Networking_and_Security": { "Cisco Packet Tracer", "Routing & Switching", "IP Subnetting", "OSI Model", "Web Security (XSS)" },
     "Platforms_and_Tools"    : { "Proteus" }
   };
-}
+};
+```
 
-ط
-طط
+<hr>
+
 <p align="center">
   <img src="banner.jpg" alt="Drakiros Banner" width="100%">
 </p>
