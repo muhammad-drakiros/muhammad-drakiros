@@ -11,12 +11,23 @@
 ![Location](https://img.shields.io/badge/Location-Giza%2C%20Egypt-blue)
 
 <details>
-<summary><b>🎧 Busy coding & Vibing to :</b></summary>
+<summary><b> 🎧 Vibing to on YouTube : </b></summary>
 <br>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://www.youtube.com/watch?v=CDV0-ArlrXw)
+<a href="https://youtu.be/CDV0-ArlrXw" target="_blank">
+
+  <img src="YOUR_ANIMATED_HEADPHONES_GIF_URL" width="40" align="center" />
+
+  <img src="YOUR_ANIMATED_MUSIC_GIF_URL" width="35" align="center" />
+
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align="center" />
+
+<b> 50 Cent - P.I.M.P. (slowed+reverb)</b>
+
+</a>
 
 </details>
+
 
 <br>
 
