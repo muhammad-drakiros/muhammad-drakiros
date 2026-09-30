@@ -38,6 +38,7 @@
 
 ![Visits](https://badges.pufler.dev/visits/muhammad-drakiros/muhammad-drakiros?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat)
 ![Hits](https://komarev.com/ghpvc/?username=muhammad-drakiros&style=flat&color=orange&label=Hits)
+
 </div>
 
 <hr></hr>
@@ -110,21 +111,19 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on linkedIn: **[Muhammad Nasr](https://linkedin.com/in/muhammadxkhalil/)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Staring aggressively at broken code for one hour burns **100 calories**.<br>
 
-<br>
-
 <div align="center">
 
-<a href="https://github.com/muhammad-drakiros">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-drakiros&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-drakiros&layout=compact&theme=nord&hide_border=true" width="48%" />
-</a>
+<!-- الكارت الرئيسي للإحصائيات -->
+<img src="https://github-readme-stats.vercel.app/api?username=muhammad-drakiros&show_icons=true&theme=nord&hide_border=true" width="65%" />
 
 <br><br>
 
 <details>
   <summary><b>📊 More Stats</b></summary>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-drakiros&theme=nord&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-drakiros&theme=nord&hide_border=true" width="65%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-drakiros&layout=compact&theme=nord&hide_border=true" width="65%" />
 </details>
 
 <hr></hr>
