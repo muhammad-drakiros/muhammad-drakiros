@@ -32,9 +32,11 @@
 
 <br>
 
-![Visits](https://badges.pufler.dev/visits/muhammad-drakiros/muhammad-drakiros?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat)
-![Hits](https://komarev.com/ghpvc/?username=muhammad-drakiros&style=flat&color=orange&label=Hits)
-
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/muhammad-drakiros/muhammad-drakiros?logo=GitHub&label=Visits&color=2ea44f&logoColor=white&style=flat" height="22" />
+  &nbsp;&nbsp;
+  <img src="https://api.visitorbadge.io/api/visitors?path=muhammad-drakiros&label=Hits&labelColor=%23555555&countColor=%232ea44f" height="20" />
+</p>
 </div>
 
 ---
