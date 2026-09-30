@@ -1,17 +1,28 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad+Nasr....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <div align="center">
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="35%"/><br>
 
-<h1>Hi, I'm Muhammad Nasr 👋</h1>
 <p><b>Electronics & Communications Engineer | Embedded Systems | AI & NLP | Networking & Cybersecurity</b></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muham2521552il/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Muhklmlj55521asr@gmail.com)
-![Location](https://img.shields.io/badge/Location-Giza%2C%20Egypt-blue)
-
+<p align="center">
+  <a href="https://linkedin.com/in/muham2521552il/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Muhklmlj55521asr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Send_Message-red?style=social&logo=gmail" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Giza%2C%20Egypt-green?style=social&logo=googlemaps" height="28" />
+</p>
 <details>
-<summary><b> 🎧 Vibing to : </b></summary>
+<summary><b> 🎧 Coding & Vibing to... : </b></summary>
 <br>
 
 <a href="https://youtu.be/CDV0-ArlrXw" target="_blank">
@@ -23,9 +34,8 @@
 
 <br>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=MakkaiMatyas&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMakkaiMatyas&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-
+![Visits](https://badges.pufler.dev/visits/muhammad-drakiros/muhammad-drakiros?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat)
+![Hits](https://komarev.com/ghpvc/?username=muhammad-drakiros&style=flat&color=orange&label=Hits)
 </div>
 
 <hr></hr>
