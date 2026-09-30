@@ -3,14 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad+Nasr....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<div align="center">
 
+<div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="35%"/><br>
 
 <p><b>ECE Engineer | Cloud & Network Security | Embedded Systems & AI</b></p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/muhammadxkhalil/" target="_blank">
     <img src="https://badgen.net/badge/LinkedIn/Profile/0A66C2?icon=linkedin" height="28" alt="LinkedIn" />
   </a>
@@ -23,16 +23,12 @@
 </p>
 
 <details>
-  
-<summary><b> 👨‍💻 Coding & 🎧 Vibing to... : </b></summary>
-<br>
-
-<a href="https://youtu.be/CDV0-ArlrXw" target="_blank">
-  <img src="giphy.webp" width="60" alt="Vibing Headphones" />
-</a>
-
+  <summary><b> 👨‍💻 Coding & 🎧 Vibing to... : </b></summary>
+  <br>
+  <a href="https://youtu.be/CDV0-ArlrXw" target="_blank">
+    <img src="giphy.webp" width="60" alt="Vibing Headphones" />
+  </a>
 </details>
-
 
 <br>
 
@@ -41,7 +37,7 @@
 
 </div>
 
-<hr></hr>
+---
 
 ## 👨‍💻 About Me:
 
@@ -53,10 +49,9 @@
 - 🏆 **Honors:** Recognized by the **Engineers Syndicate** for academic excellence & student contributions.
 - 💬 **Ask me about:** C/C++, Python, Networking (Cisco Packet Tracer), AVR Microcontrollers, & Cloud Security.
 
-<hr></hr>
+---
 
 ## 🛠️ My Technologies & Tech Stack
-
 
 <p align="left">
   <!-- Programming & Software -->
@@ -95,8 +90,8 @@
 
 class About extends Me { 
   const myTools = { 
-    "ProgrammingLanguages"    : { "C", "C++", "Python" },
-    "AI_and_Data"             : { "Deep Learning & NLP (LSTM)", "Machine Learning (K-Means, TF-IDF)", "TensorFlow", "Keras", "Scikit-Learn" },
+    "ProgrammingLanguages"     : { "C", "C++", "Python" },
+    "AI_and_Data"              : { "Deep Learning & NLP (LSTM)", "Machine Learning (K-Means, TF-IDF)", "TensorFlow", "Keras", "Scikit-Learn" },
     "Embedded_and_Hardware"   : { "AVR Microcontrollers", "Bare-Metal C", "Peripherals (GPIO, Timers, LCD, ADC)", "Automotive Bus (UART & I2C)", "PCB Fabrication & Etching", "Proteus" },
     "Networking_and_Security" : { "Cisco Packet Tracer", "Routing & Switching", "IP Subnetting", "OSI Model", "Web Security (XSS)" }
   };
