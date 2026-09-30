@@ -102,7 +102,51 @@ class About extends Me {
 };
 ```
 
-<hr>
+<hr></hr>
+
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Cloud Security & applying AI with it**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Linux, Security & Network Infrastructure**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **AVR Microcontrollers (ATmega32), Embedded C/C++, Python, AI/NLP, or Networking**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on linkedIn: **[Muhammad Nasr](https://linkedin.com/in/muhammadxkhalil/)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Staring aggressively at broken code for one hour burns **100 calories**.<br>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/muhammad-drakiros">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-drakiros&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-drakiros&layout=compact&theme=nord&hide_border=true" width="48%" />
+</a>
+
+<br><br>
+
+<details>
+  <summary><b>📊 More Stats</b></summary>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-drakiros&theme=nord&hide_border=true" />
+</details>
+
+<hr></hr>
+
+<p><b>Engineering Cycle</b></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="70" alt="Broken system!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="70" alt="It's working!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="70" alt="It's working but you don't know how!"/>
+</p>
+
+</div>
+
+### 🚀 Previous Projects
+- **AVR Embedded Microcontroller Drivers & Smart Home:** Bare-metal C firmware drivers for ATmega32 peripherals with password security and AI integration.
+- **Hardware PCB Suite:** Full physical fabrication and chemical etching for 6 functional hardware circuits.
+
+<hr></hr>
+
 
 <p align="center">
   <img src="banner.jpg" alt="Drakiros Banner" width="100%">
