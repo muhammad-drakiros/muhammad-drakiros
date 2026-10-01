@@ -28,6 +28,8 @@
   <a href="https://youtu.be/CDV0-ArlrXw" target="_blank">
     <img src="giphy.webp" width="60" alt="Vibing Headphones" />
   </a>
+  <br>
+  <sub><b>🎧Tap & Chill</b></sub>
 </details>
 
 <br>
