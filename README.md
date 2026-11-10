@@ -25,7 +25,7 @@
 <details>
   <summary><b> 👨‍💻 Coding & 🎧 Vibing to... : </b></summary>
   <br>
-  <a href="https://youtu.be/CDV0-ArlrXw" target="_blank">
+  <a href="https://www.youtube.com/watch?v=EmDCHD6Bnc4" target="_blank">
     <img src="giphy.webp" width="60" alt="Vibing Headphones" />
   </a>
   <br>
