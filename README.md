@@ -19,7 +19,7 @@
     <img src="https://badgen.net/badge/Gmail/Send%20Message/EA4335?icon=mail" height="28" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://badgen.net/badge/Location/Worldwide%20Remote%20(UTC%2B3)/2ea44f?icon=globe" height="28" alt="Location & Timezone" />
+  <img src="https://badgen.net/badge/Location/Worldwide%20Remote%20(UTC%2B2)/2ea44f?icon=globe" height="28" alt="Location & Timezone" />
 </p>
 
 <details>
